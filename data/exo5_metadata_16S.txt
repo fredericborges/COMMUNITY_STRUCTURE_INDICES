@@ -1,0 +1,9 @@
+Sample_name	pH
+sam1	low
+sam2	low
+sam3	low
+sam4	low
+sam5	high
+sam6	high
+sam7	high
+sam8	high

@@ -1,0 +1,4 @@
+Sample_name	Step
+sam1	s1
+sam2	s2
+sam3	s3
